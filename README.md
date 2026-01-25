@@ -1,74 +1,48 @@
-# Echelon-2.0
-Team : TETRA LOGIC
-event:  Echelon 2.0
+# Silver AI Prediction System
 
-  Setup Instructions
-1. Clone the Repository
-git clone https://github.com/your-username/silver-ai-system.git
-cd silver-ai-system
+AI-powered real-time silver price prediction using multi-source data collection and reinforcement learning.
 
-2. Create Virtual Environment
-On Windows:
-python -m venv venv
-venv\Scripts\activate
+## Quick Start
 
-On Mac/Linux:
-python3 -m venv venv
-source venv/bin/activate
-
-3. Install Dependencies
+### Backend Setup
+```bash
+# Install dependencies
 pip install -r requirements.txt
 
-4. Configure API Keys
+# Configure API keys
+cp .env.example .env  # Add your ALPHA_KEY and GNEWS_KEY
 
-Create a .env file in the root directory and add:
-
-ALPHA_VANTAGE_API_KEY=your_alpha_vantage_key
-GNEWS_API_KEY=your_gnews_api_key
-Or in config.py:
-ALPHA_KEY = "your_alpha_vantage_key"
-GNEWS_KEY = "your_gnews_api_key"
-
-5. Ensure Intelligence Modules Are Ready
-
-Make sure these files exist:
-intelligence/sentiment.py
-intelligence/market.py
-
-And your utils/price_fetcher.py is properly fetching prices.
-
-6. Run the Backend Server
+# Run server
 uvicorn main:app --reload
+```
 
-7. Frontend
-1. Navigate to Frontend Directory
-cd silver-pulse-dashboard
-
-2. Install Frontend Dependencies
+### Frontend Setup
+```bash
+cd frontend
 npm install
-
-3. Start Development Server
 npm run dev
+```
 
+Access dashboard at: http://localhost:8080
 
-You should see:
+## Core Features
 
-VITE v5.x ready
-Local: http://localhost:8080/
+- **Multi-source Data Collection**: Spot silver, futures, and Alpha Vantage
+- **Reinforcement Learning**: Bandit algorithm for optimal source selection
+- **Real-time Prediction**: ARIMA-based price forecasting
+- **Live Dashboard**: Interactive frontend with price history and predictions
 
-4. Access Dashboard
+## API Endpoints
 
-Open in browser:
-http://localhost:8080/
+- `GET /silver/predict` - Get current price and prediction
+- `GET /silver/history` - Get recent price history (last 2 hours)
 
-This will load the Silver Pulse AI Dashboard UI.
+## Tech Stack
 
- 5. Connect Frontend with Backend
+**Backend**: FastAPI, Python, ARIMA, Multi-armed Bandit
+**Frontend**: React/Vite, Tailwind CSS
+**Data Sources**: Yahoo Finance, Alpha Vantage, GNews
 
-Ensure backend is running:
-uvicorn main:app --reload
+## Team
 
-
-Update your frontend API base URL if needed:
-http://localhost:8000/silver/predict   
-
+Tetra Logic - Echelon 2.0
