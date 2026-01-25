@@ -1,0 +1,7 @@
+[2026-01-24 23:50:18] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:50:20] [ERROR] BACKEND FAILURE
+Traceback (most recent call last):
+  File "C:\Users\Dell\Downloads\datacollectionAIAgent-master\datacollectionAIAgent-master\main.py", line 126, in predict_silver
+    "predicted_price": round(float(predicted_price), 4),
+                             ~~~~~^^^^^^^^^^^^^^^^^
+TypeError: float() argument must be a string or a real number, not 'NoneType'

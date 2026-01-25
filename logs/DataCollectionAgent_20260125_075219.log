@@ -1,0 +1,109 @@
+[2026-01-25 07:52:19] [INFO] === AI Logging System Initialized ===
+[2026-01-25 07:53:12] [INFO] DECISION | Selected Source: spot_silver | Score: 1.1963 | Budget Remaining: 5.00
+[2026-01-25 07:53:12] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 07:53:12] [INFO] LEARNING | Source: spot_silver | Old Value: 0.0000 -> New Value: 0.6525
+[2026-01-25 07:53:12] [INFO] BUDGET | Old: 5.00 -> New: 4.70
+[2026-01-25 07:53:15] [INFO] DECISION | Selected Source: spot_silver | Score: 1.8031 | Budget Remaining: 4.70
+[2026-01-25 07:53:45] [INFO] DECISION | Selected Source: spot_silver | Score: 1.8488 | Budget Remaining: 4.70
+[2026-01-25 07:53:45] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 07:53:45] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 07:53:45] [INFO] BUDGET | Old: 4.70 -> New: 4.40
+[2026-01-25 07:53:51] [INFO] DECISION | Selected Source: spot_silver | Score: 1.7987 | Budget Remaining: 4.40
+[2026-01-25 07:53:52] [INFO] DECISION | Selected Source: spot_silver | Score: 1.8189 | Budget Remaining: 4.40
+[2026-01-25 07:54:10] [INFO] DECISION | Selected Source: spot_silver | Score: 1.8352 | Budget Remaining: 4.40
+[2026-01-25 07:54:22] [INFO] DECISION | Selected Source: spot_silver | Score: 1.8488 | Budget Remaining: 4.40
+[2026-01-25 07:54:22] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 07:54:22] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 07:54:22] [INFO] BUDGET | Old: 4.40 -> New: 4.10
+[2026-01-25 07:54:52] [INFO] DECISION | Selected Source: alphavantage_silver | Score: 1.3972 | Budget Remaining: 4.10
+[2026-01-25 07:54:52] [INFO] REWARD | Source: alphavantage_silver | Reward: 0.3540
+[2026-01-25 07:54:52] [INFO] LEARNING | Source: alphavantage_silver | Old Value: 0.0000 -> New Value: 0.3540
+[2026-01-25 07:54:52] [INFO] BUDGET | Old: 4.10 -> New: 3.70
+[2026-01-25 07:55:09] [INFO] DECISION | Selected Source: spot_silver | Score: 1.8119 | Budget Remaining: 3.70
+[2026-01-25 07:55:22] [INFO] DECISION | Selected Source: spot_silver | Score: 1.8196 | Budget Remaining: 3.70
+[2026-01-25 07:55:22] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 07:55:22] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 07:55:22] [INFO] BUDGET | Old: 3.70 -> New: 3.40
+[2026-01-25 07:55:53] [INFO] DECISION | Selected Source: spot_silver | Score: 1.7850 | Budget Remaining: 3.40
+[2026-01-25 07:55:53] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 07:55:53] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 07:55:53] [INFO] BUDGET | Old: 3.40 -> New: 3.10
+[2026-01-25 07:56:09] [INFO] DECISION | Selected Source: spot_silver | Score: 1.7594 | Budget Remaining: 3.10
+[2026-01-25 07:56:23] [INFO] DECISION | Selected Source: spot_silver | Score: 1.7641 | Budget Remaining: 3.10
+[2026-01-25 07:56:23] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 07:56:23] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 07:56:23] [INFO] BUDGET | Old: 3.10 -> New: 2.80
+[2026-01-25 07:56:53] [INFO] DECISION | Selected Source: spot_silver | Score: 1.7435 | Budget Remaining: 2.80
+[2026-01-25 07:56:53] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 07:56:53] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 07:56:53] [INFO] BUDGET | Old: 2.80 -> New: 2.50
+[2026-01-25 07:57:09] [INFO] DECISION | Selected Source: spot_silver | Score: 1.7269 | Budget Remaining: 2.50
+[2026-01-25 07:58:10] [INFO] DECISION | Selected Source: spot_silver | Score: 1.7301 | Budget Remaining: 2.50
+[2026-01-25 07:58:10] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 07:58:10] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 07:58:10] [INFO] BUDGET | Old: 2.50 -> New: 2.20
+[2026-01-25 07:58:12] [INFO] DECISION | Selected Source: spot_silver | Score: 1.7159 | Budget Remaining: 2.20
+[2026-01-25 07:59:09] [INFO] DECISION | Selected Source: spot_silver | Score: 1.7185 | Budget Remaining: 2.20
+[2026-01-25 07:59:10] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 07:59:10] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 07:59:10] [INFO] BUDGET | Old: 2.20 -> New: 1.90
+[2026-01-25 07:59:12] [INFO] DECISION | Selected Source: silver_futures | Score: 1.5879 | Budget Remaining: 1.90
+[2026-01-25 07:59:12] [INFO] REWARD | Source: silver_futures | Reward: 0.5100
+[2026-01-25 07:59:12] [INFO] LEARNING | Source: silver_futures | Old Value: 0.0000 -> New Value: 0.5100
+[2026-01-25 07:59:12] [INFO] BUDGET | Old: 1.90 -> New: 1.55
+[2026-01-25 07:59:22] [INFO] DECISION | Selected Source: silver_futures | Score: 1.8494 | Budget Remaining: 1.55
+[2026-01-25 07:59:22] [INFO] REWARD | Source: silver_futures | Reward: 0.5100
+[2026-01-25 07:59:22] [INFO] LEARNING | Source: silver_futures | Old Value: 0.5100 -> New Value: 0.5100
+[2026-01-25 07:59:22] [INFO] BUDGET | Old: 1.55 -> New: 1.20
+[2026-01-25 07:59:53] [INFO] DECISION | Selected Source: silver_futures | Score: 1.7400 | Budget Remaining: 1.20
+[2026-01-25 07:59:53] [INFO] REWARD | Source: silver_futures | Reward: 0.5100
+[2026-01-25 07:59:53] [INFO] LEARNING | Source: silver_futures | Old Value: 0.5100 -> New Value: 0.5100
+[2026-01-25 07:59:53] [INFO] BUDGET | Old: 1.20 -> New: 0.85
+[2026-01-25 08:00:09] [INFO] DECISION | Selected Source: spot_silver | Score: 1.5955 | Budget Remaining: 0.85
+[2026-01-25 08:00:54] [INFO] DECISION | Selected Source: spot_silver | Score: 1.5974 | Budget Remaining: 0.85
+[2026-01-25 08:00:54] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 08:00:54] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 08:00:54] [INFO] BUDGET | Old: 0.85 -> New: 0.55
+[2026-01-25 08:01:10] [INFO] DECISION | Selected Source: silver_futures | Score: 1.3559 | Budget Remaining: 0.55
+[2026-01-25 08:01:10] [INFO] REWARD | Source: silver_futures | Reward: 0.5100
+[2026-01-25 08:01:10] [INFO] LEARNING | Source: silver_futures | Old Value: 0.5100 -> New Value: 0.5100
+[2026-01-25 08:01:10] [INFO] BUDGET | Old: 0.55 -> New: 0.20
+[2026-01-25 08:01:23] [INFO] DECISION | Selected Source: alphavantage_silver | Score: 1.1234 | Budget Remaining: 0.20
+[2026-01-25 08:01:23] [INFO] REWARD | Source: alphavantage_silver | Reward: 0.3540
+[2026-01-25 08:01:23] [INFO] LEARNING | Source: alphavantage_silver | Old Value: 0.3540 -> New Value: 0.3540
+[2026-01-25 08:01:23] [INFO] BUDGET | Old: 0.20 -> New: 0.00
+[2026-01-25 08:01:53] [INFO] DECISION | Selected Source: spot_silver | Score: 0.9262 | Budget Remaining: 0.00
+[2026-01-25 08:01:53] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 08:01:53] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 08:01:53] [INFO] BUDGET | Old: 0.00 -> New: 0.00
+[2026-01-25 08:02:09] [INFO] DECISION | Selected Source: silver_futures | Score: 0.9182 | Budget Remaining: 0.00
+[2026-01-25 08:02:10] [INFO] REWARD | Source: silver_futures | Reward: 0.5100
+[2026-01-25 08:02:10] [INFO] LEARNING | Source: silver_futures | Old Value: 0.5100 -> New Value: 0.5100
+[2026-01-25 08:02:10] [INFO] BUDGET | Old: 0.00 -> New: 0.00
+[2026-01-25 08:02:22] [INFO] DECISION | Selected Source: spot_silver | Score: 0.9174 | Budget Remaining: 0.00
+[2026-01-25 08:02:52] [INFO] DECISION | Selected Source: spot_silver | Score: 0.9187 | Budget Remaining: 0.00
+[2026-01-25 08:02:52] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 08:02:52] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 08:02:52] [INFO] BUDGET | Old: 0.00 -> New: 0.00
+[2026-01-25 08:03:10] [INFO] DECISION | Selected Source: alphavantage_silver | Score: 0.8889 | Budget Remaining: 0.00
+[2026-01-25 08:03:10] [INFO] REWARD | Source: alphavantage_silver | Reward: 0.3540
+[2026-01-25 08:03:10] [INFO] LEARNING | Source: alphavantage_silver | Old Value: 0.3540 -> New Value: 0.3540
+[2026-01-25 08:03:10] [INFO] BUDGET | Old: 0.00 -> New: 0.00
+[2026-01-25 08:03:22] [INFO] DECISION | Selected Source: spot_silver | Score: 0.9107 | Budget Remaining: 0.00
+[2026-01-25 08:03:52] [INFO] DECISION | Selected Source: spot_silver | Score: 0.9118 | Budget Remaining: 0.00
+[2026-01-25 08:03:52] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 08:03:52] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 08:03:52] [INFO] BUDGET | Old: 0.00 -> New: 0.00
+[2026-01-25 08:04:10] [INFO] DECISION | Selected Source: spot_silver | Score: 0.9034 | Budget Remaining: 0.00
+[2026-01-25 08:04:22] [INFO] DECISION | Selected Source: spot_silver | Score: 0.9045 | Budget Remaining: 0.00
+[2026-01-25 08:04:23] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 08:04:23] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 08:04:23] [INFO] BUDGET | Old: 0.00 -> New: 0.00
+[2026-01-25 08:04:53] [INFO] DECISION | Selected Source: spot_silver | Score: 0.8969 | Budget Remaining: 0.00
+[2026-01-25 08:04:53] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 08:04:53] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 08:04:53] [INFO] BUDGET | Old: 0.00 -> New: 0.00
+[2026-01-25 08:05:09] [INFO] DECISION | Selected Source: silver_futures | Score: 0.8979 | Budget Remaining: 0.00
+[2026-01-25 08:05:09] [INFO] REWARD | Source: silver_futures | Reward: 0.5100
+[2026-01-25 08:05:09] [INFO] LEARNING | Source: silver_futures | Old Value: 0.5100 -> New Value: 0.5100
+[2026-01-25 08:05:09] [INFO] BUDGET | Old: 0.00 -> New: 0.00

@@ -1,0 +1,14 @@
+[2026-01-24 23:32:18] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:32:18] [INFO] DECISION | Selected Source: spot_silver | Score: 1.1963 | Budget Remaining: 5.00
+[2026-01-24 23:32:18] [INFO] EXPLANATION | Source 'spot_silver' selected due to high freshness (0.95), reliability (0.95), and acceptable cost (0.30). Source 'silver_futures' deprioritized due to lower freshness, lower reliability, higher cost.
+[2026-01-24 23:32:24] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:32:24] [INFO] DECISION | Selected Source: spot_silver | Score: 1.1963 | Budget Remaining: 5.00
+[2026-01-24 23:32:24] [INFO] EXPLANATION | Source 'spot_silver' selected due to high freshness (0.95), reliability (0.95), and acceptable cost (0.30). Source 'silver_futures' deprioritized due to lower freshness, lower reliability, higher cost.
+[2026-01-24 23:32:54] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:32:54] [INFO] DECISION | Selected Source: spot_silver | Score: 1.1963 | Budget Remaining: 5.00
+[2026-01-24 23:33:24] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:33:24] [INFO] DECISION | Selected Source: spot_silver | Score: 1.1963 | Budget Remaining: 5.00
+[2026-01-24 23:33:24] [INFO] EXPLANATION | Source 'spot_silver' selected due to high freshness (0.95), reliability (0.95), and acceptable cost (0.30). Source 'silver_futures' deprioritized due to lower freshness, lower reliability, higher cost.
+[2026-01-24 23:33:54] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:33:54] [INFO] DECISION | Selected Source: spot_silver | Score: 1.1963 | Budget Remaining: 5.00
+[2026-01-24 23:33:54] [INFO] EXPLANATION | Source 'spot_silver' selected due to high freshness (0.95), reliability (0.95), and acceptable cost (0.30). Source 'silver_futures' deprioritized due to lower freshness, lower reliability, higher cost.

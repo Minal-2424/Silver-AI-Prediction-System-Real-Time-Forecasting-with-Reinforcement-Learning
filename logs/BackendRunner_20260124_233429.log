@@ -1,0 +1,40 @@
+[2026-01-24 23:34:29] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:34:30] [INFO] SKIP | Fresh data within refresh window
+[2026-01-24 23:34:31] [INFO] SKIP | Fresh data within refresh window
+[2026-01-24 23:34:59] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:35:01] [INFO] COLLECT | Real data fetched
+[2026-01-24 23:35:01] [ERROR] BACKEND ERROR: type NoneType doesn't define __round__ method
+[2026-01-24 23:35:29] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:35:31] [INFO] COLLECT | Real data fetched
+[2026-01-24 23:35:31] [ERROR] BACKEND ERROR: type NoneType doesn't define __round__ method
+[2026-01-24 23:35:59] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:36:01] [INFO] COLLECT | Real data fetched
+[2026-01-24 23:36:01] [ERROR] BACKEND ERROR: type NoneType doesn't define __round__ method
+[2026-01-24 23:36:04] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:36:06] [INFO] SKIP | Fresh data within refresh window
+[2026-01-24 23:36:06] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:36:08] [INFO] SKIP | Fresh data within refresh window
+[2026-01-24 23:36:26] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:36:28] [INFO] COLLECT | Real data fetched
+[2026-01-24 23:36:28] [ERROR] BACKEND ERROR: type NoneType doesn't define __round__ method
+[2026-01-24 23:36:56] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:36:57] [INFO] SKIP | Fresh data within refresh window
+[2026-01-24 23:37:26] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:37:28] [INFO] COLLECT | Real data fetched
+[2026-01-24 23:37:28] [ERROR] BACKEND ERROR: type NoneType doesn't define __round__ method
+[2026-01-24 23:37:56] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:37:57] [INFO] COLLECT | Real data fetched
+[2026-01-24 23:37:57] [ERROR] BACKEND ERROR: type NoneType doesn't define __round__ method
+[2026-01-24 23:38:26] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:38:28] [INFO] COLLECT | Real data fetched
+[2026-01-24 23:38:28] [ERROR] BACKEND ERROR: type NoneType doesn't define __round__ method
+[2026-01-24 23:38:37] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:38:40] [INFO] SKIP | Fresh data within refresh window
+[2026-01-24 23:38:43] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:38:44] [INFO] SKIP | Fresh data within refresh window
+[2026-01-24 23:39:13] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:39:15] [INFO] COLLECT | Real data fetched
+[2026-01-24 23:39:15] [ERROR] BACKEND ERROR: type NoneType doesn't define __round__ method
+[2026-01-24 23:39:43] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:39:45] [INFO] COLLECT | Real data fetched
+[2026-01-24 23:39:45] [ERROR] BACKEND ERROR: type NoneType doesn't define __round__ method

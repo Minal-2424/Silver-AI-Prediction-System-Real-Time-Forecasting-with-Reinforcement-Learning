@@ -1,0 +1,32 @@
+[2026-01-24 23:42:16] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:42:16] [INFO] DECISION | Selected Source: silver_futures | Score: 1.1388 | Budget Remaining: 5.00
+[2026-01-24 23:42:46] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:42:46] [INFO] DECISION | Selected Source: spot_silver | Score: 1.1963 | Budget Remaining: 5.00
+[2026-01-24 23:42:46] [INFO] EXPLANATION | Source 'spot_silver' selected due to high freshness (0.95), reliability (0.95), and acceptable cost (0.30). Source 'silver_futures' deprioritized due to lower freshness, lower reliability, higher cost.
+[2026-01-24 23:43:03] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:43:03] [INFO] DECISION | Selected Source: silver_futures | Score: 1.1388 | Budget Remaining: 5.00
+[2026-01-24 23:43:27] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:43:27] [INFO] DECISION | Selected Source: spot_silver | Score: 1.1963 | Budget Remaining: 5.00
+[2026-01-24 23:43:27] [INFO] EXPLANATION | Source 'spot_silver' selected due to high freshness (0.95), reliability (0.95), and acceptable cost (0.30). Source 'silver_futures' deprioritized due to lower freshness, lower reliability, higher cost.
+[2026-01-24 23:43:31] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:43:31] [INFO] DECISION | Selected Source: spot_silver | Score: 1.1963 | Budget Remaining: 5.00
+[2026-01-24 23:43:31] [INFO] EXPLANATION | Source 'spot_silver' selected due to high freshness (0.95), reliability (0.95), and acceptable cost (0.30). Source 'silver_futures' deprioritized due to lower freshness, lower reliability, higher cost.
+[2026-01-24 23:43:42] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:43:42] [INFO] DECISION | Selected Source: spot_silver | Score: 1.1963 | Budget Remaining: 5.00
+[2026-01-24 23:45:56] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:45:56] [INFO] DECISION | Selected Source: spot_silver | Score: 1.1963 | Budget Remaining: 5.00
+[2026-01-24 23:45:56] [INFO] EXPLANATION | Source 'spot_silver' selected due to high freshness (0.95), reliability (0.95), and acceptable cost (0.30). Source 'silver_futures' deprioritized due to lower freshness, lower reliability, higher cost.
+[2026-01-24 23:46:23] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:46:23] [INFO] DECISION | Selected Source: spot_silver | Score: 1.1963 | Budget Remaining: 5.00
+[2026-01-24 23:46:23] [INFO] EXPLANATION | Source 'spot_silver' selected due to high freshness (0.95), reliability (0.95), and acceptable cost (0.30). Source 'silver_futures' deprioritized due to lower freshness, lower reliability, higher cost.
+[2026-01-24 23:48:08] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:48:08] [INFO] DECISION | Selected Source: spot_silver | Score: 1.1963 | Budget Remaining: 5.00
+[2026-01-24 23:48:08] [INFO] EXPLANATION | Source 'spot_silver' selected due to high freshness (0.95), reliability (0.95), and acceptable cost (0.30). Source 'silver_futures' deprioritized due to lower freshness, lower reliability, higher cost.
+[2026-01-24 23:48:14] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:48:14] [INFO] DECISION | Selected Source: silver_futures | Score: 1.1388 | Budget Remaining: 5.00
+[2026-01-24 23:48:45] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:48:45] [INFO] DECISION | Selected Source: spot_silver | Score: 1.1963 | Budget Remaining: 5.00
+[2026-01-24 23:48:45] [INFO] EXPLANATION | Source 'spot_silver' selected due to high freshness (0.95), reliability (0.95), and acceptable cost (0.30). Source 'silver_futures' deprioritized due to lower freshness, lower reliability, higher cost.
+[2026-01-24 23:49:15] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:49:15] [INFO] DECISION | Selected Source: spot_silver | Score: 1.1963 | Budget Remaining: 5.00
+[2026-01-24 23:49:15] [INFO] EXPLANATION | Source 'spot_silver' selected due to high freshness (0.95), reliability (0.95), and acceptable cost (0.30). Source 'silver_futures' deprioritized due to lower freshness, lower reliability, higher cost.

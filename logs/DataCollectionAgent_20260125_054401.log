@@ -1,0 +1,67 @@
+[2026-01-25 05:44:01] [INFO] === AI Logging System Initialized ===
+[2026-01-25 05:44:10] [INFO] DECISION | Selected Source: spot_silver | Score: 1.4963 | Budget Remaining: 5.00
+[2026-01-25 05:44:10] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Source 'silver_futures' deprioritized due to higher cost, lower freshness.
+[2026-01-25 05:44:10] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 05:44:10] [INFO] LEARNING | Source: spot_silver | Old Value: 0.0000 -> New Value: 0.6525
+[2026-01-25 05:44:10] [INFO] BUDGET | Old: 5.00 -> New: 4.70
+[2026-01-25 05:44:11] [INFO] DECISION | Selected Source: spot_silver | Score: 2.1031 | Budget Remaining: 4.70
+[2026-01-25 05:44:11] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness.
+[2026-01-25 05:45:09] [INFO] DECISION | Selected Source: spot_silver | Score: 2.1488 | Budget Remaining: 4.70
+[2026-01-25 05:45:09] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness.
+[2026-01-25 05:45:09] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 05:45:09] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 05:45:09] [INFO] BUDGET | Old: 4.70 -> New: 4.40
+[2026-01-25 05:45:10] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0987 | Budget Remaining: 4.40
+[2026-01-25 05:46:09] [INFO] DECISION | Selected Source: spot_silver | Score: 2.1189 | Budget Remaining: 4.40
+[2026-01-25 05:46:09] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness.
+[2026-01-25 05:46:09] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 05:46:09] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 05:46:09] [INFO] BUDGET | Old: 4.40 -> New: 4.10
+[2026-01-25 05:46:10] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0812 | Budget Remaining: 4.10
+[2026-01-25 05:46:10] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness.
+[2026-01-25 05:47:09] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0930 | Budget Remaining: 4.10
+[2026-01-25 05:47:09] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness.
+[2026-01-25 05:47:09] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 05:47:09] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 05:47:09] [INFO] BUDGET | Old: 4.10 -> New: 3.80
+[2026-01-25 05:47:10] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0640 | Budget Remaining: 3.80
+[2026-01-25 05:47:10] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness.
+[2026-01-25 05:48:02] [INFO] DECISION | Selected Source: silver_futures | Score: 1.7812 | Budget Remaining: 3.80
+[2026-01-25 05:48:02] [INFO] EXPLANATION | Source 'silver_futures' selected due to freshness=0.90, reliability=0.90, sentiment=0.50, market impact=0.50, and competitive cost=0.35.
+[2026-01-25 05:48:02] [INFO] REWARD | Source: silver_futures | Reward: 0.5100
+[2026-01-25 05:48:02] [INFO] LEARNING | Source: silver_futures | Old Value: 0.0000 -> New Value: 0.5100
+[2026-01-25 05:48:02] [INFO] BUDGET | Old: 3.80 -> New: 3.45
+[2026-01-25 05:48:04] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0788 | Budget Remaining: 3.45
+[2026-01-25 05:48:07] [INFO] DECISION | Selected Source: silver_futures | Score: 2.0898 | Budget Remaining: 3.45
+[2026-01-25 05:48:08] [INFO] REWARD | Source: silver_futures | Reward: 0.5100
+[2026-01-25 05:48:08] [INFO] LEARNING | Source: silver_futures | Old Value: 0.5100 -> New Value: 0.5100
+[2026-01-25 05:48:08] [INFO] BUDGET | Old: 3.45 -> New: 3.10
+[2026-01-25 05:48:10] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0906 | Budget Remaining: 3.10
+[2026-01-25 05:48:14] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0958 | Budget Remaining: 3.10
+[2026-01-25 05:48:14] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness.
+[2026-01-25 05:48:34] [INFO] DECISION | Selected Source: spot_silver | Score: 2.1005 | Budget Remaining: 3.10
+[2026-01-25 05:48:34] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness.
+[2026-01-25 05:48:43] [INFO] DECISION | Selected Source: spot_silver | Score: 2.1048 | Budget Remaining: 3.10
+[2026-01-25 05:48:43] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness.
+[2026-01-25 05:48:44] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 05:48:44] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 05:48:44] [INFO] BUDGET | Old: 3.10 -> New: 2.80
+[2026-01-25 05:49:10] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0761 | Budget Remaining: 2.80
+[2026-01-25 05:49:10] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness.
+[2026-01-25 05:49:13] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0795 | Budget Remaining: 2.80
+[2026-01-25 05:49:13] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness.
+[2026-01-25 05:49:16] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0828 | Budget Remaining: 2.80
+[2026-01-25 05:49:16] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness.
+[2026-01-25 05:49:17] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 05:49:17] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 05:49:17] [INFO] BUDGET | Old: 2.80 -> New: 2.50
+[2026-01-25 05:49:44] [INFO] DECISION | Selected Source: silver_futures | Score: 2.0321 | Budget Remaining: 2.50
+[2026-01-25 05:49:44] [INFO] REWARD | Source: silver_futures | Reward: 0.5100
+[2026-01-25 05:49:44] [INFO] LEARNING | Source: silver_futures | Old Value: 0.5100 -> New Value: 0.5100
+[2026-01-25 05:49:44] [INFO] BUDGET | Old: 2.50 -> New: 2.15
+[2026-01-25 05:50:09] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0622 | Budget Remaining: 2.15
+[2026-01-25 05:50:09] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness.
+[2026-01-25 05:50:10] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0648 | Budget Remaining: 2.15
+[2026-01-25 05:50:10] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness.
+[2026-01-25 05:50:13] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0671 | Budget Remaining: 2.15
+[2026-01-25 05:50:13] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness.

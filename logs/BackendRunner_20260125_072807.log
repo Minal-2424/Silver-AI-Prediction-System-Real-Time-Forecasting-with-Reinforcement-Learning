@@ -1,0 +1,8 @@
+[2026-01-25 07:28:07] [INFO] === AI Logging System Initialized ===
+[2026-01-25 07:28:18] [INFO] === AI Logging System Initialized ===
+[2026-01-25 07:28:22] [INFO] COLLECT | spot_silver | price=103.1850 -> pred=103.2933 | reward=0.6525
+[2026-01-25 07:28:48] [INFO] === AI Logging System Initialized ===
+[2026-01-25 07:28:51] [INFO] COLLECT | silver_futures | price=103.1850 -> pred=103.2933 | reward=0.5100
+[2026-01-25 07:29:07] [INFO] === AI Logging System Initialized ===
+[2026-01-25 07:29:18] [INFO] === AI Logging System Initialized ===
+[2026-01-25 07:29:21] [INFO] COLLECT | spot_silver | price=103.1850 -> pred=103.2933 | reward=0.6525

@@ -1,0 +1,2 @@
+[2026-01-25 07:52:10] [INFO] === AI Logging System Initialized ===
+[2026-01-25 07:52:12] [INFO] ENV LOAD | Sources: ['spot_silver', 'silver_futures', 'alphavantage_silver']

@@ -1,0 +1,130 @@
+[2026-01-25 06:21:37] [INFO] === AI Logging System Initialized ===
+[2026-01-25 06:22:01] [INFO] DECISION | Selected Source: spot_silver | Score: 1.4963 | Budget Remaining: 5.00
+[2026-01-25 06:22:01] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:22:01] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 06:22:01] [INFO] LEARNING | Source: spot_silver | Old Value: 0.0000 -> New Value: 0.6525
+[2026-01-25 06:22:01] [INFO] BUDGET | Old: 5.00 -> New: 4.70
+[2026-01-25 06:22:02] [INFO] DECISION | Selected Source: spot_silver | Score: 2.1031 | Budget Remaining: 4.70
+[2026-01-25 06:22:02] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:22:09] [INFO] DECISION | Selected Source: spot_silver | Score: 2.1488 | Budget Remaining: 4.70
+[2026-01-25 06:22:09] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:22:12] [INFO] DECISION | Selected Source: spot_silver | Score: 2.1810 | Budget Remaining: 4.70
+[2026-01-25 06:22:12] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:22:14] [INFO] DECISION | Selected Source: spot_silver | Score: 2.2058 | Budget Remaining: 4.70
+[2026-01-25 06:22:14] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:22:14] [INFO] DECISION | Selected Source: alphavantage_silver | Score: 1.6535 | Budget Remaining: 4.70
+[2026-01-25 06:22:14] [INFO] REWARD | Source: alphavantage_silver | Reward: 0.3540
+[2026-01-25 06:22:14] [INFO] LEARNING | Source: alphavantage_silver | Old Value: 0.0000 -> New Value: 0.3540
+[2026-01-25 06:22:14] [INFO] BUDGET | Old: 4.70 -> New: 4.30
+[2026-01-25 06:22:15] [INFO] DECISION | Selected Source: spot_silver | Score: 2.2423 | Budget Remaining: 4.30
+[2026-01-25 06:22:15] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:22:45] [INFO] DECISION | Selected Source: spot_silver | Score: 2.2566 | Budget Remaining: 4.30
+[2026-01-25 06:22:45] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:22:45] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 06:22:45] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 06:22:45] [INFO] BUDGET | Old: 4.30 -> New: 4.00
+[2026-01-25 06:23:09] [INFO] DECISION | Selected Source: spot_silver | Score: 2.1705 | Budget Remaining: 4.00
+[2026-01-25 06:23:09] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:23:11] [INFO] DECISION | Selected Source: spot_silver | Score: 2.1795 | Budget Remaining: 4.00
+[2026-01-25 06:23:11] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:23:15] [INFO] DECISION | Selected Source: spot_silver | Score: 2.1876 | Budget Remaining: 4.00
+[2026-01-25 06:23:15] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:23:15] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 06:23:15] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 06:23:15] [INFO] BUDGET | Old: 4.00 -> New: 3.70
+[2026-01-25 06:23:44] [INFO] DECISION | Selected Source: spot_silver | Score: 2.1329 | Budget Remaining: 3.70
+[2026-01-25 06:23:44] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:24:09] [INFO] DECISION | Selected Source: spot_silver | Score: 2.1386 | Budget Remaining: 3.70
+[2026-01-25 06:24:09] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:24:09] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 06:24:09] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 06:24:09] [INFO] BUDGET | Old: 3.70 -> New: 3.40
+[2026-01-25 06:24:11] [INFO] DECISION | Selected Source: spot_silver | Score: 2.1005 | Budget Remaining: 3.40
+[2026-01-25 06:24:11] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:24:14] [INFO] DECISION | Selected Source: alphavantage_silver | Score: 1.8987 | Budget Remaining: 3.40
+[2026-01-25 06:24:15] [INFO] REWARD | Source: alphavantage_silver | Reward: 0.3540
+[2026-01-25 06:24:15] [INFO] LEARNING | Source: alphavantage_silver | Old Value: 0.3540 -> New Value: 0.3540
+[2026-01-25 06:24:15] [INFO] BUDGET | Old: 3.40 -> New: 3.00
+[2026-01-25 06:24:45] [INFO] DECISION | Selected Source: spot_silver | Score: 2.1089 | Budget Remaining: 3.00
+[2026-01-25 06:24:45] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:24:45] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 06:24:45] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 06:24:45] [INFO] BUDGET | Old: 3.00 -> New: 2.70
+[2026-01-25 06:25:10] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0795 | Budget Remaining: 2.70
+[2026-01-25 06:25:10] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:25:12] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0828 | Budget Remaining: 2.70
+[2026-01-25 06:25:12] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:25:15] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0858 | Budget Remaining: 2.70
+[2026-01-25 06:25:15] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:25:15] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 06:25:15] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 06:25:15] [INFO] BUDGET | Old: 2.70 -> New: 2.40
+[2026-01-25 06:26:07] [INFO] DECISION | Selected Source: alphavantage_silver | Score: 1.8137 | Budget Remaining: 2.40
+[2026-01-25 06:26:08] [INFO] REWARD | Source: alphavantage_silver | Reward: 0.3540
+[2026-01-25 06:26:08] [INFO] LEARNING | Source: alphavantage_silver | Old Value: 0.3540 -> New Value: 0.3540
+[2026-01-25 06:26:08] [INFO] BUDGET | Old: 2.40 -> New: 2.00
+[2026-01-25 06:26:10] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0648 | Budget Remaining: 2.00
+[2026-01-25 06:26:12] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0671 | Budget Remaining: 2.00
+[2026-01-25 06:26:28] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0694 | Budget Remaining: 2.00
+[2026-01-25 06:26:28] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:26:30] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0716 | Budget Remaining: 2.00
+[2026-01-25 06:26:30] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:26:59] [INFO] DECISION | Selected Source: silver_futures | Score: 1.9250 | Budget Remaining: 2.00
+[2026-01-25 06:26:59] [INFO] REWARD | Source: silver_futures | Reward: 0.5100
+[2026-01-25 06:26:59] [INFO] LEARNING | Source: silver_futures | Old Value: 0.0000 -> New Value: 0.5100
+[2026-01-25 06:26:59] [INFO] BUDGET | Old: 2.00 -> New: 1.65
+[2026-01-25 06:27:01] [INFO] DECISION | Selected Source: silver_futures | Score: 2.1744 | Budget Remaining: 1.65
+[2026-01-25 06:27:01] [INFO] EXPLANATION | Source 'silver_futures' selected due to freshness=0.90, reliability=0.90, sentiment=0.50, market impact=0.50, and competitive cost=0.35. Learning history improved confidence (learned value=0.510). Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:27:01] [INFO] REWARD | Source: silver_futures | Reward: 0.5100
+[2026-01-25 06:27:01] [INFO] LEARNING | Source: silver_futures | Old Value: 0.5100 -> New Value: 0.5100
+[2026-01-25 06:27:01] [INFO] BUDGET | Old: 1.65 -> New: 1.30
+[2026-01-25 06:27:10] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0775 | Budget Remaining: 1.30
+[2026-01-25 06:27:10] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:27:29] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0793 | Budget Remaining: 1.30
+[2026-01-25 06:27:31] [INFO] DECISION | Selected Source: spot_silver | Score: 2.0810 | Budget Remaining: 1.30
+[2026-01-25 06:27:31] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 06:27:31] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 06:27:31] [INFO] BUDGET | Old: 1.30 -> New: 1.00
+[2026-01-25 06:27:59] [INFO] DECISION | Selected Source: silver_futures | Score: 2.0674 | Budget Remaining: 1.00
+[2026-01-25 06:27:59] [INFO] EXPLANATION | Source 'silver_futures' selected due to freshness=0.90, reliability=0.90, sentiment=0.50, market impact=0.50, and competitive cost=0.35. Learning history improved confidence (learned value=0.510). Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:27:59] [INFO] REWARD | Source: silver_futures | Reward: 0.5100
+[2026-01-25 06:27:59] [INFO] LEARNING | Source: silver_futures | Old Value: 0.5100 -> New Value: 0.5100
+[2026-01-25 06:27:59] [INFO] BUDGET | Old: 1.00 -> New: 0.65
+[2026-01-25 06:28:01] [INFO] DECISION | Selected Source: spot_silver | Score: 1.7886 | Budget Remaining: 0.65
+[2026-01-25 06:28:01] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:28:10] [INFO] DECISION | Selected Source: spot_silver | Score: 1.7901 | Budget Remaining: 0.65
+[2026-01-25 06:28:10] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:28:29] [INFO] DECISION | Selected Source: silver_futures | Score: 1.7491 | Budget Remaining: 0.65
+[2026-01-25 06:28:29] [INFO] REWARD | Source: silver_futures | Reward: 0.5100
+[2026-01-25 06:28:29] [INFO] LEARNING | Source: silver_futures | Old Value: 0.5100 -> New Value: 0.5100
+[2026-01-25 06:28:29] [INFO] BUDGET | Old: 0.65 -> New: 0.30
+[2026-01-25 06:28:31] [INFO] DECISION | Selected Source: spot_silver | Score: 1.5198 | Budget Remaining: 0.30
+[2026-01-25 06:28:31] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:28:59] [INFO] DECISION | Selected Source: spot_silver | Score: 1.5211 | Budget Remaining: 0.30
+[2026-01-25 06:28:59] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:29:01] [INFO] DECISION | Selected Source: spot_silver | Score: 1.5224 | Budget Remaining: 0.30
+[2026-01-25 06:29:01] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:29:01] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 06:29:01] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 06:29:01] [INFO] BUDGET | Old: 0.30 -> New: 0.00
+[2026-01-25 06:29:10] [INFO] DECISION | Selected Source: spot_silver | Score: 0.8204 | Budget Remaining: 0.00
+[2026-01-25 06:29:10] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:30:10] [INFO] DECISION | Selected Source: spot_silver | Score: 0.8215 | Budget Remaining: 0.00
+[2026-01-25 06:30:10] [INFO] EXPLANATION | Source 'spot_silver' selected due to freshness=0.95, reliability=0.95, sentiment=0.50, market impact=0.50, and competitive cost=0.30. Learning history improved confidence (learned value=0.653). Source 'silver_futures' deprioritized due to higher cost, lower freshness. Source 'alphavantage_silver' deprioritized due to higher cost, lower freshness.
+[2026-01-25 06:30:10] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 06:30:10] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 06:30:10] [INFO] BUDGET | Old: 0.00 -> New: 0.00
+[2026-01-25 06:30:13] [ERROR] ERROR | Budget exhausted. No source selected.
+[2026-01-25 06:30:16] [ERROR] ERROR | Budget exhausted. No source selected.
+[2026-01-25 06:31:10] [ERROR] ERROR | Budget exhausted. No source selected.
+[2026-01-25 06:31:13] [ERROR] ERROR | Budget exhausted. No source selected.
+[2026-01-25 06:31:16] [ERROR] ERROR | Budget exhausted. No source selected.
+[2026-01-25 06:32:10] [ERROR] ERROR | Budget exhausted. No source selected.
+[2026-01-25 06:32:13] [ERROR] ERROR | Budget exhausted. No source selected.
+[2026-01-25 06:32:15] [ERROR] ERROR | Budget exhausted. No source selected.
+[2026-01-25 06:33:10] [ERROR] ERROR | Budget exhausted. No source selected.
+[2026-01-25 06:33:13] [ERROR] ERROR | Budget exhausted. No source selected.
+[2026-01-25 06:33:15] [ERROR] ERROR | Budget exhausted. No source selected.
+[2026-01-25 06:34:09] [ERROR] ERROR | Budget exhausted. No source selected.
+[2026-01-25 06:34:12] [ERROR] ERROR | Budget exhausted. No source selected.
+[2026-01-25 06:34:14] [ERROR] ERROR | Budget exhausted. No source selected.

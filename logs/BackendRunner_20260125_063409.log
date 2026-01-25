@@ -1,0 +1,12 @@
+[2026-01-25 06:34:09] [INFO] === AI Logging System Initialized ===
+[2026-01-25 06:34:12] [ERROR] BACKEND FAILURE
+Traceback (most recent call last):
+  File "C:\Users\Dell\Downloads\datacollectionAIAgent-master\datacollectionAIAgent-master\main.py", line 127, in predict_silver
+    raise RuntimeError("Agent could not select a source")
+RuntimeError: Agent could not select a source
+[2026-01-25 06:34:12] [INFO] === AI Logging System Initialized ===
+[2026-01-25 06:34:14] [ERROR] BACKEND FAILURE
+Traceback (most recent call last):
+  File "C:\Users\Dell\Downloads\datacollectionAIAgent-master\datacollectionAIAgent-master\main.py", line 127, in predict_silver
+    raise RuntimeError("Agent could not select a source")
+RuntimeError: Agent could not select a source

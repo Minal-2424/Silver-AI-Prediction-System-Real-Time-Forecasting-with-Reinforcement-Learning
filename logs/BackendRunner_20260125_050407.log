@@ -1,0 +1,52 @@
+[2026-01-25 05:04:07] [INFO] === AI Logging System Initialized ===
+[2026-01-25 05:04:09] [ERROR] BACKEND FAILURE
+Traceback (most recent call last):
+  File "C:\Users\Dell\Downloads\datacollectionAIAgent-master\datacollectionAIAgent-master\main.py", line 76, in predict_silver
+    selected_source, decision_score = agent.select_best_source(env)
+                                      ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Dell\Downloads\datacollectionAIAgent-master\datacollectionAIAgent-master\agent\agent.py", line 155, in select_best_source
+    score, meta = self.evaluate_source(name, state)
+                  ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Dell\Downloads\datacollectionAIAgent-master\datacollectionAIAgent-master\agent\agent.py", line 76, in evaluate_source
+    + self.sentiment_weight * (sentiment - 0.5)
+                               ~~~~~~~~~~^~~~~
+TypeError: unsupported operand type(s) for -: 'dict' and 'float'
+[2026-01-25 05:04:09] [INFO] === AI Logging System Initialized ===
+[2026-01-25 05:04:11] [ERROR] BACKEND FAILURE
+Traceback (most recent call last):
+  File "C:\Users\Dell\Downloads\datacollectionAIAgent-master\datacollectionAIAgent-master\main.py", line 76, in predict_silver
+    selected_source, decision_score = agent.select_best_source(env)
+                                      ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Dell\Downloads\datacollectionAIAgent-master\datacollectionAIAgent-master\agent\agent.py", line 155, in select_best_source
+    score, meta = self.evaluate_source(name, state)
+                  ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Dell\Downloads\datacollectionAIAgent-master\datacollectionAIAgent-master\agent\agent.py", line 76, in evaluate_source
+    + self.sentiment_weight * (sentiment - 0.5)
+                               ~~~~~~~~~~^~~~~
+TypeError: unsupported operand type(s) for -: 'dict' and 'float'
+[2026-01-25 05:05:07] [INFO] === AI Logging System Initialized ===
+[2026-01-25 05:05:09] [ERROR] BACKEND FAILURE
+Traceback (most recent call last):
+  File "C:\Users\Dell\Downloads\datacollectionAIAgent-master\datacollectionAIAgent-master\main.py", line 76, in predict_silver
+    selected_source, decision_score = agent.select_best_source(env)
+                                      ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Dell\Downloads\datacollectionAIAgent-master\datacollectionAIAgent-master\agent\agent.py", line 155, in select_best_source
+    score, meta = self.evaluate_source(name, state)
+                  ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Dell\Downloads\datacollectionAIAgent-master\datacollectionAIAgent-master\agent\agent.py", line 76, in evaluate_source
+    + self.sentiment_weight * (sentiment - 0.5)
+                               ~~~~~~~~~~^~~~~
+TypeError: unsupported operand type(s) for -: 'dict' and 'float'
+[2026-01-25 05:05:09] [INFO] === AI Logging System Initialized ===
+[2026-01-25 05:05:11] [ERROR] BACKEND FAILURE
+Traceback (most recent call last):
+  File "C:\Users\Dell\Downloads\datacollectionAIAgent-master\datacollectionAIAgent-master\main.py", line 76, in predict_silver
+    selected_source, decision_score = agent.select_best_source(env)
+                                      ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Dell\Downloads\datacollectionAIAgent-master\datacollectionAIAgent-master\agent\agent.py", line 155, in select_best_source
+    score, meta = self.evaluate_source(name, state)
+                  ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Dell\Downloads\datacollectionAIAgent-master\datacollectionAIAgent-master\agent\agent.py", line 76, in evaluate_source
+    + self.sentiment_weight * (sentiment - 0.5)
+                               ~~~~~~~~~~^~~~~
+TypeError: unsupported operand type(s) for -: 'dict' and 'float'

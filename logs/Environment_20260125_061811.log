@@ -1,0 +1,13 @@
+[2026-01-25 06:18:11] [INFO] === AI Logging System Initialized ===
+[2026-01-25 06:19:07] [INFO] === AI Logging System Initialized ===
+[2026-01-25 06:19:09] [INFO] REWARD | Source: spot_silver | Quality: 0.9025 | Sentiment: 0.50 | Sentiment Bonus: 0.000 | Market Impact: 0.50 | Market Bonus: 0.050 | Cost: 0.30 | Final Reward: 0.6525
+[2026-01-25 06:19:10] [INFO] === AI Logging System Initialized ===
+[2026-01-25 06:19:12] [INFO] === AI Logging System Initialized ===
+[2026-01-25 06:20:07] [INFO] === AI Logging System Initialized ===
+[2026-01-25 06:20:10] [INFO] REWARD | Source: silver_futures | Quality: 0.8100 | Sentiment: 0.50 | Sentiment Bonus: 0.000 | Market Impact: 0.50 | Market Bonus: 0.050 | Cost: 0.35 | Final Reward: 0.5100
+[2026-01-25 06:20:10] [INFO] === AI Logging System Initialized ===
+[2026-01-25 06:20:11] [INFO] === AI Logging System Initialized ===
+[2026-01-25 06:21:07] [INFO] === AI Logging System Initialized ===
+[2026-01-25 06:21:10] [INFO] REWARD | Source: spot_silver | Quality: 0.9025 | Sentiment: 0.50 | Sentiment Bonus: 0.000 | Market Impact: 0.50 | Market Bonus: 0.050 | Cost: 0.30 | Final Reward: 0.6525
+[2026-01-25 06:21:10] [INFO] === AI Logging System Initialized ===
+[2026-01-25 06:21:12] [INFO] === AI Logging System Initialized ===

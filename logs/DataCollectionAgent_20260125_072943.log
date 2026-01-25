@@ -1,0 +1,17 @@
+[2026-01-25 07:29:43] [INFO] === AI Logging System Initialized ===
+[2026-01-25 07:29:56] [INFO] DECISION | Selected Source: alphavantage_silver | Score: 1.0723 | Budget Remaining: 5.00
+[2026-01-25 07:29:56] [INFO] REWARD | Source: alphavantage_silver | Reward: 0.3540
+[2026-01-25 07:29:56] [INFO] LEARNING | Source: alphavantage_silver | Old Value: 0.0000 -> New Value: 0.3540
+[2026-01-25 07:29:56] [INFO] BUDGET | Old: 5.00 -> New: 4.60
+[2026-01-25 07:29:57] [INFO] DECISION | Selected Source: alphavantage_silver | Score: 1.3806 | Budget Remaining: 4.60
+[2026-01-25 07:29:57] [INFO] REWARD | Source: alphavantage_silver | Reward: 0.3540
+[2026-01-25 07:29:57] [INFO] LEARNING | Source: alphavantage_silver | Old Value: 0.3540 -> New Value: 0.3540
+[2026-01-25 07:29:57] [INFO] BUDGET | Old: 4.60 -> New: 4.20
+[2026-01-25 07:30:10] [INFO] DECISION | Selected Source: spot_silver | Score: 1.3687 | Budget Remaining: 4.20
+[2026-01-25 07:30:10] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 07:30:10] [INFO] LEARNING | Source: spot_silver | Old Value: 0.0000 -> New Value: 0.6525
+[2026-01-25 07:30:10] [INFO] BUDGET | Old: 4.20 -> New: 3.90
+[2026-01-25 07:30:27] [INFO] DECISION | Selected Source: spot_silver | Score: 1.8810 | Budget Remaining: 3.90
+[2026-01-25 07:30:27] [INFO] REWARD | Source: spot_silver | Reward: 0.6525
+[2026-01-25 07:30:27] [INFO] LEARNING | Source: spot_silver | Old Value: 0.6525 -> New Value: 0.6525
+[2026-01-25 07:30:27] [INFO] BUDGET | Old: 3.90 -> New: 3.60

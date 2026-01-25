@@ -1,0 +1,2 @@
+[2026-01-24 23:30:56] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:30:58] [ERROR] BACKEND ERROR: 'DataCollectionAgent' object has no attribute 'budget_used'

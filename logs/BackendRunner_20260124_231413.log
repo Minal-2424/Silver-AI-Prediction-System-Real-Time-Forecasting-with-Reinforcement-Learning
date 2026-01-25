@@ -1,0 +1,115 @@
+[2026-01-24 23:14:13] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:14:13] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:14:15] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:14:15] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:14:16] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:14:16] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:14:16] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:14:18] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:14:18] [INFO] PREDICTION | Next Price: 1.588 | Trend: up | Confidence: 0.0096
+[2026-01-24 23:14:19] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:14:19] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:14:19] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:14:21] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:14:21] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:14:22] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:14:22] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:14:22] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:14:24] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:14:24] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:14:25] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:14:25] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:14:25] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:14:27] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:14:27] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:14:28] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:14:28] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:14:28] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:14:30] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:14:30] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:14:31] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:14:35] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:14:35] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:14:37] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:14:37] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:14:38] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:14:38] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:14:38] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:14:40] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:14:40] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:14:41] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:14:46] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:14:46] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:14:47] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:14:47] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:14:49] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:14:51] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:14:51] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:14:53] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:14:53] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:14:54] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:14:54] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:14:54] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:14:56] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:14:56] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:14:57] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:14:57] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:14:57] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:14:58] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:14:58] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:15:00] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:15:00] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:15:00] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:15:01] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:15:01] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:15:02] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:15:03] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:15:03] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:15:05] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:15:05] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:15:06] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:15:06] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:15:06] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:15:08] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:15:08] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:15:09] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:15:09] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:15:09] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:15:11] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:15:11] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:15:12] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:15:12] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:15:12] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:15:14] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:15:14] [INFO] PREDICTION | Next Price: 1.588 | Trend: up | Confidence: 0.0096
+[2026-01-24 23:15:15] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:15:44] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:15:44] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:15:45] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:15:46] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:15:47] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:16:12] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:16:12] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:16:14] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:16:14] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:16:15] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:16:59] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:16:59] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:17:01] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:17:01] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:17:02] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:18:42] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:18:42] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:18:44] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:18:44] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:18:46] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:19:17] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:19:17] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:19:19] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:19:19] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:19:21] [INFO] ===== BACKEND EXECUTION FINISHED =====
+[2026-01-24 23:20:20] [INFO] === AI Logging System Initialized ===
+[2026-01-24 23:20:20] [INFO] ===== BACKEND EXECUTION STARTED =====
+[2026-01-24 23:20:22] [INFO] ENV | Timestep: 0 | Info: Initialized environment with 2 sources
+[2026-01-24 23:20:22] [INFO] PREDICTION | Next Price: 102.4688 | Trend: up | Confidence: 0.0017
+[2026-01-24 23:20:23] [INFO] ===== BACKEND EXECUTION FINISHED =====
