@@ -1,0 +1,10 @@
+[2026-01-25 14:30:50] [INFO] === AI Logging System Initialized ===
+[2026-01-25 14:30:54] [INFO] ENV LOAD | Sources: ['spot_silver', 'silver_futures', 'alphavantage_silver']
+[2026-01-25 14:30:54] [INFO] REWARD | spot_silver | quality=0.902 cost=0.30 sentiment=0.50 market=0.50 reward=0.652
+[2026-01-25 14:30:54] [INFO] === AI Logging System Initialized ===
+[2026-01-25 14:30:57] [INFO] ENV LOAD | Sources: ['spot_silver', 'silver_futures', 'alphavantage_silver']
+[2026-01-25 14:31:50] [INFO] === AI Logging System Initialized ===
+[2026-01-25 14:31:53] [INFO] ENV LOAD | Sources: ['spot_silver', 'silver_futures', 'alphavantage_silver']
+[2026-01-25 14:31:53] [INFO] REWARD | spot_silver | quality=0.902 cost=0.30 sentiment=0.50 market=0.50 reward=0.652
+[2026-01-25 14:31:53] [INFO] === AI Logging System Initialized ===
+[2026-01-25 14:31:57] [INFO] ENV LOAD | Sources: ['spot_silver', 'silver_futures', 'alphavantage_silver']
