@@ -42,7 +42,3 @@ Access dashboard at: http://localhost:8080
 **Backend**: FastAPI, Python, ARIMA, Multi-armed Bandit
 **Frontend**: React/Vite, Tailwind CSS
 **Data Sources**: Yahoo Finance, Alpha Vantage, GNews
-
-## Team
-
-Tetra Logic - Echelon 2.0
